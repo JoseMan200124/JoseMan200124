@@ -38,8 +38,6 @@ Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde
 <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-man-castellanos-fullstackwebdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/danman200124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
-<h1>Portafolio web</h1>
-<a href="https://imdanielman.com/" style="font-size:25px;">imdanielman.com/</a>
 <h1>Empresa Propia</h1>
 <img align="left" width="20%" src="https://haricode.com/vistas/img/icono.png" style="padding-right:10px;">
 <h1><a href="https://haricode.com/">haricode.com/</a></h1>
