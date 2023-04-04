@@ -41,8 +41,6 @@ Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde
 </ol>
 <br/>
 <br/>
-<br/>
-<br/>
 <h1>Hablemos! </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-man-castellanos-fullstackwebdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
