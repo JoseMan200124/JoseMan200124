@@ -56,6 +56,6 @@ Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde
 </p>
 <h1>Empresa Propia</h1>
 <img align="left" width="20%" src="https://haricode.com/vistas/img/icono.png" style="padding-right:10px;">
-<h1><a href="https://haricode.com/">haricode.com/</a></h1>
+<h1><a href="https://haricode.com/" target="_blank">haricode.com/</a></h1>
 
 <img src="https://haricode.com/vistas/img/patron.png" width="100%">
