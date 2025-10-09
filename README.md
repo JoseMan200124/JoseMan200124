@@ -5,7 +5,7 @@
 
 # Hola! Soy Daniel Man, Fullstack Developer
 
-Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código. Tengo 4 años de experiencia laboral en distintos lugares y entidades como por ejemplo:
+Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código. Tengo 7 años de experiencia laboral en distintos lugares y entidades como por ejemplo:
 
 <ol>
     <li>Consystec Corp</li>
