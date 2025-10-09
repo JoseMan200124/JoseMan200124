@@ -46,7 +46,6 @@ Soy desarrollador web fullstack realizando todos mis proyectos desde cero, desde
  <div align="right">
   <h1 align="left">Ganador de Hack the Future - Front End</h1>
  <img src="img/Ranking.png" alt="hack-the-future" align="left" style="width:50%;"/>
-  <a href="https://hackthefuture.dev/ganadores/" target="_blank" align="left">https://hackthefuture.dev/ganadores/</a>
 </div>
 <br/>
 <br/>
